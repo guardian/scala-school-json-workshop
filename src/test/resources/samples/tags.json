@@ -1,0 +1,14 @@
+[
+  {
+    "name": "News (Tone)",
+    "path": "tone/news"
+  },
+  {
+    "name": "Cycling (Life and style)",
+    "path": "lifeandstyle/cycling"
+  },
+  {
+    "name": "Raspberry Pi",
+    "path": "technology/raspberry-pi"
+  }
+]
